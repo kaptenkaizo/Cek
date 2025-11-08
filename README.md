@@ -10,8 +10,6 @@
 - open gmail apps and search for `mexc`
 - find like this example
 ![em](https://raw.githubusercontent.com/kaptenkaizo/Cek/refs/heads/main/IMG-20251108-WA0009.jpg)
-####
-contact me on telegram [@yzr4x](https://t.me/@yzr4x)
 
 
 
